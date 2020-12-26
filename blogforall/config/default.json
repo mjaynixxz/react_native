@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://blog4all:blogforall@cluster0.mlekx.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "blog4all"
+}
